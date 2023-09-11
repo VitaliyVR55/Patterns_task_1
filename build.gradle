@@ -19,7 +19,7 @@ dependencies {
     testImplementation 'com.codeborne:selenide:6.17.0'
     testImplementation 'com.github.javafaker:javafaker:1.0.2'
     testImplementation 'org.projectlombok:lombok:1.18.24'
-    testAnnotationProcessor 'org.progectlombok:lombok:1.18.24'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.24'
     testRuntimeOnly 'org.slf4j:slf4j-simple:2.0.3'
 
 }
